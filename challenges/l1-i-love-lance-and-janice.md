@@ -18,13 +18,17 @@ Test cases
 ==========
 
 Inputs:
-  (string) s = "wrw blf hvv ozhg mrtsg'h vkrhlwv?"
+
+     (string) s = "wrw blf hvv ozhg mrtsg'h vkrhlwv?"
 Output:
-  (string) "did you see last night's episode?"
+
+     (string) "did you see last night's episode?"
 
 Inputs:
-  (string) s = "Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!!"
+
+     (string) s = "Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!!"
 Output:
-  (string) "Yeah! I can't believe Lance lost his job at the colony!!"
+
+     (string) "Yeah! I can't believe Lance lost his job at the colony!!"
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
