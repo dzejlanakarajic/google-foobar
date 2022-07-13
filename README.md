@@ -1,4 +1,17 @@
 # google-foobar
 My journey with the Google foo.bar recruitment challenges
 
-![alt text](https://github.com/dzejlanakarajic/google-foobar/blob/main/google-foobar.png?raw=true)
+![](google-foobar.png)
+
+## Challenges
+
+[Journal](challenges/journal.md)
+
+### Level 1
+
+- [I Love Lance and Janice](challenges/l1-i-love-lance-and-janice.md)
+
+### Level 2
+
+- [Power Hungry](challenges/l2-power-hungry.md)
+- [Gearing Up for Destruction](challenges/l2-gearing-up-for-destruction.md)
