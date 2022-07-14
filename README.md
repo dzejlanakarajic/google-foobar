@@ -15,3 +15,7 @@ This repository contains solutions for Google's foo.bar recruitment challenges.
 
 - [Power Hungry](challenges/l2-power-hungry.md)
 - [Gearing Up for Destruction](challenges/l2-gearing-up-for-destruction.md)
+
+### Level 3
+
+- [Queue To Do](challenges/l3-queue-to-do.md)
