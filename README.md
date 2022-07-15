@@ -19,3 +19,4 @@ This repository contains solutions for Google's foo.bar recruitment challenges.
 ### Level 3
 
 - [Queue To Do](challenges/l3-queue-to-do.md)
+- [Find the Access Codes](challenges/l3-find-the-access-codes.md)
