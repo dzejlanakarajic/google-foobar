@@ -20,3 +20,4 @@ This repository contains solutions for Google's foo.bar recruitment challenges.
 
 - [Queue To Do](challenges/l3-queue-to-do.md)
 - [Find the Access Codes](challenges/l3-find-the-access-codes.md)
+- [Doomsday Fuel](challenges/l3-doomsday-fuel.md)
